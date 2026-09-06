@@ -2,4 +2,8 @@
 
 Can follow instructions REALLY well
 
-Sidhanth - Knows database systems, OOP, and basic web development  
+Sidhanth - Knows database systems, OOP, and basic web development
+Anshuman - Is decent at everything
+
+
+
