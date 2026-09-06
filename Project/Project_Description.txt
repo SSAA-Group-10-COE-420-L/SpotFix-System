@@ -1,5 +1,5 @@
 There are scheduling conflicts, lost data, and delayed standings updates when local sports leagues are run by hand.
 
 
-SpotFix is a centralised platform that replaces manual paperwork with digital scheduling, roster management, and real-time tracking to automate the administration of sporting events.
+SpotFix is a centralized platform that replaces manual paperwork with digital scheduling, roster management, and real-time tracking to automate the administration of sporting events. The intended users are league administrators, team managers, players and other participants. The system will allow teams and players to register, administrators to manage teams and league information, and provide tools for creating and managing match fixtures. The main functionalities will be user and team registration, fixture scheduling, viewing upcoming matches and managing league information in a centralized system.
 
