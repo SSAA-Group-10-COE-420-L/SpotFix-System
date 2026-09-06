@@ -7,3 +7,5 @@ Anshuman - Is decent at everything
 
 
 
+Sanjana - Backend and web development, AI, Machine Learning, Document Processing, Project Management
+
